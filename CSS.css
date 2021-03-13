@@ -1,0 +1,21 @@
+.form-control {
+    padding: 20px;
+    font-size: 15px;
+}
+
+::placeholder {
+    font-size: 15px;
+}
+
+h4,
+h5 {
+    color: #385185;
+}
+
+#ou {
+    color: darkgray;
+}
+
+p {
+    font-size: 15px;
+}
